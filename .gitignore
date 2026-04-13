@@ -37,7 +37,7 @@
 **/android/captures/
 **/android/local.properties
 **/android/**/GeneratedPluginRegistrant.java
-**/android/gradle/wrapper/gradle-wrapper.properties
+#**/android/gradle/wrapper/gradle-wrapper.properties
 
 
 # iOS/XCode related
